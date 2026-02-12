@@ -23,6 +23,10 @@ Bachelor of Science in Information Technology (BSIT) student with a strong focus
   <img src="https://skillicons.dev/icons?i=mysql" height="40" />
 </p>
 
+* PHP  
+* Laravel  
+* MySQL
+
 ---
 
 ###  Frontend
@@ -32,6 +36,10 @@ Bachelor of Science in Information Technology (BSIT) student with a strong focus
   <img src="https://skillicons.dev/icons?i=js" height="40" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
 </p>
+
+* Blade  
+* Tailwind CSS  
+* JavaScript  
 
 ---
 
