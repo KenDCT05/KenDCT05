@@ -1,6 +1,6 @@
 #  About Me
 
-Bachelor of Science in Information Technology (BSIT) student with a strong focus on full-stack web development. I build structured, role-based systems using Laravel and MySQL, with emphasis on clean architecture, database design, and real-world application logic.
+An aspiring Bachelor of Science in Information Technology (BSIT) graduate with a strong interest in software development, systems design, and problem-solving. Equipped with foundational knowledge in programming, database management, and web development, with hands-on experience building academic and personal projects. Demonstrates analytical thinking, attention to detail, and the ability to learn new technologies quickly. Committed to developing efficient, scalable, and user-focused solutions while continuously improving technical and professional skills in preparation for a career in the technology industry.
 
 ---
 
